@@ -1,1 +1,0 @@
-# Generator-Load-Sharing-System
